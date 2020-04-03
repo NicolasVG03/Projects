@@ -1,0 +1,1 @@
+Projeto de conclusão de curso, desenvolvido em node.js e react native. O aplicativo foi desenvolvido para a empresa de turismo Costa do Sol. Possui funções com realizar chamadas, cadastrar ocorrências, visualizar paradas e o roteiro da viagem.
